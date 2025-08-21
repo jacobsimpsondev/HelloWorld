@@ -2,7 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        Car car= new Car("Nissan", "Pathfinder", 2015);
+        Car car= new Truck("Nissan", "Pathfinder", 2015);
     }
 }
 
